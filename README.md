@@ -11,6 +11,6 @@
 ### For more Details please checkout Official Documentation:
 
 ```
-https://pypi.org/project/sweetviz/#:~:text=Sweetviz%20is%20an%20open%2Dsource,target%20values%20and%20comparing%20datasets.
+https://pypi.org/project/sweetviz/
 
 ```
