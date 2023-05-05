@@ -8,7 +8,7 @@
 
 ### Overall, Sweetviz is a powerful EDA tool that can save data analysts and data scientists significant amounts of time while providing highly informative visualizations and statistics for datasets.
 
-### For more Details please checkout Official Documentation:
+### For More Details Please Checkout Official Documentation:
 
 ```
 https://pypi.org/project/sweetviz/
